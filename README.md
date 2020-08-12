@@ -26,3 +26,9 @@ sudo service rabbitmq-server status
 
 http://localhost:15672
 
+# Installing MySQL Server on Ubuntu 16.04
+
+sudo apt install mysql-server
+
+
+
